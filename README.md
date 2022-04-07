@@ -7,7 +7,7 @@ This repository will be a collection of labeled code snippets from;
 - past coding challenges
 - past development 'bootcamps'
 
-These snippets will be used in;
+These snippets will be used in conjunction with;
 - game development
 - 3D web development
 - freelance full stack web development for private clients
