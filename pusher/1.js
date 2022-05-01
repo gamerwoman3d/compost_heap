@@ -1,3 +1,4 @@
+//sums two functions
 function sum(a, b) {
   return a + b;
 }
