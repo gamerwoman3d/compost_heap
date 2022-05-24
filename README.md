@@ -13,7 +13,7 @@ These snippets will be used in conjunction with;
 - freelance full stack web development for private clients
 - freelance app development for private clients
 
-//instructions
+//Instructions
 
 Place any great ideas for code in a .txt file in the compost heap.
 Pseudocode, a lot.
