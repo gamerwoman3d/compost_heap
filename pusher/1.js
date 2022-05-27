@@ -9,3 +9,4 @@ alert( result );
 let x = 10;
 const pizza = 'Dominos';
 
+//pizza cannot be changed
