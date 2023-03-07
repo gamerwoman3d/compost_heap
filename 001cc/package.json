@@ -1,7 +1,7 @@
 {
   "name": "001c",
   "version": "1.0.0",
-  "description": "a catchup crew file ",
+  "description": "a catchup crew file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,9 @@
   },
   "keywords": [
     "catchup"
+    "delete later"
+    "update"
   ],
-  "author": "Mythic",
+  "author": "Mythic Mack",
   "license": "ISC"
 }

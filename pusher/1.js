@@ -1,3 +1,4 @@
+//sums two functions
 function sum(a, b) {
   return a + b;
 }
@@ -8,3 +9,4 @@ alert( result );
 let x = 10;
 const pizza = 'Dominos';
 
+//pizza cannot be changed
